@@ -1,0 +1,2 @@
+# nishabot
+Nishabot básico.
